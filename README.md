@@ -3,7 +3,7 @@
 Analysing the effect of traffic reduction on emission of gas pollutant. The main file with solution can be found [here](https://github.com/Preetibisht6/Effect-Of-Traffic-Reduction-on-pollutant-emission-during-Covid-19/blob/main/Src/Main_analysis.ipynb)
 
 ## Objective
-The procject concern the change in pollutant emission(No2) during covid-19 becuase of reduction in Traffic. The Study area selected for this project is London city.
+The project concern the change in pollutant emission(No2) during covid-19 becuase of reduction in Traffic. The Study area selected for this project is London city.
 
 ## Data Used
 [Sentinel-5p ](https://developers.google.com/earth-engine/datasets/catalog/sentinel-5p)
